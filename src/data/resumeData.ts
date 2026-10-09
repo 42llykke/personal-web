@@ -582,7 +582,7 @@ export const RESUME_CONTENT: Record<Language, LocalizedResumeData> = {
       },
       {
         category: 'Languages',
-        items: 'English (IELTS 6.5)',
+        items: 'English (IELTS 6)',
       },
     ],
     awards: [
